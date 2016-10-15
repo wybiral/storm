@@ -1,6 +1,6 @@
 // Settings
-const STRIKE_MIN_DELAY = 3.0;
-const STRIKE_MAX_DELAY = 7.0;
+const STRIKE_MIN_DELAY = 2.0;
+const STRIKE_MAX_DELAY = 5.0;
 const THUNDER_DELAY = 0.5;
 const THUNDER_DURATION = 7;
 
