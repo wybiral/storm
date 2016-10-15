@@ -60,4 +60,7 @@ const lightning = () => {
     setTimeout(lightning, delay * 1000);
 }
 
-window.onload = lightning;
+window.onload = () => {
+    background(0, 0, 0);
+    lightning();
+};
