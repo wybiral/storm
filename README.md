@@ -1,4 +1,4 @@
 # storm
 Procedural storm in Javascript
 
-### [Click here for demo](http://davy.wtf/storm)
+### [Click here for demo](https://wybiral.github.io/storm/)
